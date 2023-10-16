@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\bin\Debug\net7.0\humano.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\bin\Debug\net7.0\humano.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\bin\Debug\net7.0\humano.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\bin\Debug\net7.0\humano.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\bin\Debug\net7.0\humano.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\refint\humano.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\humano.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\humano\obj\Debug\net7.0\ref\humano.dll
